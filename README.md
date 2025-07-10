@@ -1,5 +1,6 @@
 # Retail-Orders-Data-Analysis-Project
 This project involves a complete data analysis pipeline on a retail orders dataset. The dataset was accessed using the Kaggle API and analyzed using a combination of Python (for EDA) and MySQL (for deeper querying and analysis)
+
 MySQL
 
 Kaggle API

@@ -13,9 +13,9 @@ Fetched the retails_order dataset directly from Kaggle using the Kaggle API.
 Performed initial data exploration in Python using Pandas and visualization libraries to understand the structure, missing values, and trends in the dataset.
 
 3.SQL Analysis:
-Imported the cleaned dataset into a MySQL database for advanced querying—e.g., 
-a.find top 10 revinue genarating products in each region
-b.find top 5 selling product in each region
-c.find month over month growth comparison for 2022 and 2023 sales eg :	jan 2022 vs jan 2023
-d.for each catagory which month had highest sell
+Imported the cleaned dataset into a MySQL database for advanced querying—e.g.,-- 
+a.find top 10 revinue genarating products in each region--
+b.find top 5 selling product in each region--
+c.find month over month growth comparison for 2022 and 2023 sales eg :	jan 2022 vs jan 2023--
+d.for each catagory which month had highest sell--
 e.which sub catagory had highest growth by profit in 2023 compare to 2022

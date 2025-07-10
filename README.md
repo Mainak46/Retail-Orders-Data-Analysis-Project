@@ -5,7 +5,7 @@ MySQL
 
 Kaggle API
 
-Jupiter notebook/VS Code
+Jupyter notebook/VS Code
 1. Project Workflow
 Dataset Collection:
 Fetched the retails_order dataset directly from Kaggle using the Kaggle API.
